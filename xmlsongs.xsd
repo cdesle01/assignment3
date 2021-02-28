@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xs:schema xmlns:xs="https://gillianroeca.github.io/assignment3/XMLSongList.xsd"
+elementFormDefault="qualified">
+
+<xs:element name="setlistType">
+  <xs:complexType>
+    <xs:sequence>
+      <xs:element name="record" maxOccurs="unbounded" type="recordType"/>
+    </xs:sequence>
+  </xs:complexType>
+</xs:element>
+
+<xs:element name="recordType">
+  <xs:complexType>
+    <xs:sequence>
+      <xs:element name="songtitle" type="xs:string"/>
+      <xs:element name="artists" type="xs:string"/>
+      <xs:element name="genre" type="xs:string"/>
+      <xs:element name="year" type="xs:positiveInteger"/>
+    </xs:sequence>
+  </xs:complexType>
+</xs:element>
+
+</xs:schema>

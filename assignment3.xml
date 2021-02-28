@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href = "xmlstyle.css"?>
+
+<setlist 
+xmlns:xsi=
+xsi:schemaLocation= >
+
+    <record>
+        <songtitle>Mr. Brightside</songtitle>
+        <artists>The Killers</artists>
+        <genre>Rock</genre>
+        <year>2003</year>
+    </record>
+    
+    <record>
+        <songtitle>What You Know</songtitle>
+        <artists>Two Door Cinema Club</artists>
+        <genre>Alternative</genre>
+        <year>2010</year>
+    </record>
+    
+    <record>
+        <songtitle>Blinding Lights</songtitle>
+        <artists>The Weedknd</artists>
+        <genre>R&amp;B</genre>
+        <year>2021</year>
+    </record>
+    
+    <record>
+        <songtitle>Best Part</songtitle>
+        <artists>Daniel Caesar and H.E.R.</artists>
+        <genre>R&amp;B</genre>
+        <year>2017</year>
+    </record>
+    
+    <record>
+        <songtitle>Hey There Delilah</songtitle>
+        <artists>Plain White Tees</artists>
+        <genre>Alternative</genre>
+        <year>2006</year>
+    </record>
+    
+    <record>
+        <songtitle>Wagon Wheel</songtitle>
+        <artists>Darius Rucker</artists>
+        <genre>Country</genre>
+        <year>2013</year>
+    </record>
+    
+    <record>
+        <songtitle>Big Sur</songtitle>
+        <artists>The Thrills</artists>
+        <genre>Rock</genre>
+        <year>2003</year>
+    </record>
+    
+    <record>
+        <songtitle>Lancaster Nights</songtitle>
+        <artists>Charlie Burg</artists>
+        <genre>Alternative</genre>
+        <year>2020</year>
+    </record>
+    
+    <record>
+        <songtitle>WORTH SAVING</songtitle>
+        <artists>Jessie Reyez</artists>
+        <genre>R&amp;B</genre>
+        <year>2020</year>
+    </record>
+    
+    <record>
+        <songtitle>Ribs</songtitle>
+        <artists>Lorde</artists>
+        <genre>Electropop</genre>
+        <year>2013</year>
+    </record>
+    
+</setlist>

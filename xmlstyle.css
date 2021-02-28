@@ -1,0 +1,47 @@
+setlist {
+    display: block;
+}
+
+record {
+    display: block;
+    padding: 5px;
+    border-bottom: 1px solid #000;
+}
+
+songtitle {
+    display: block;
+    font-size: 23px;
+    font-weight: 500;
+    background-color: #fff192;
+}
+
+
+artists {
+    display: block;
+    font-weight: bold;
+}
+
+artists::before {
+    content: "By: ";
+    font-weight: 400;
+}
+
+genre {
+    display: block;
+    font-weight: bold;
+}
+
+genre::before {
+    content: "Genre: ";
+    font-weight: 400;
+}
+
+year {
+    display: block;
+    font-weight: bold;
+}
+
+year::before {
+    content: "Released: ";
+    font-weight: 400;
+}
