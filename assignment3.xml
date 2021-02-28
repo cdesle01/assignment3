@@ -2,8 +2,8 @@
 <?xml-stylesheet type="text/css" href = "xmlstyle.css"?>
 
 <setlist 
-xmlns:xsi=
-xsi:schemaLocation= >
+xmlns:xsi=  "https://cdesle01.github.io/assignment3/"
+xsi:schemaLocation= "https://cdesle01.github.io/assignment3/xmlsongs.xsd">
 
     <record>
         <songtitle>Mr. Brightside</songtitle>
